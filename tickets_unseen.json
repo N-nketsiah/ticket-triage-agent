@@ -1,0 +1,62 @@
+ [
+  {
+    "id": 1,
+    "text": "Can I book assistance by phone instead of using the app?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 2,
+    "text": "I would like to change my booking from 10:00 to 10:30. It is 7am now.",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 3,
+    "text": "Please cancel my assistance for next Tuesday.",
+    "category": "cancellation",
+    "escalate": false
+  },
+  {
+    "id": 4,
+    "text": "Does cancelling my assistance booking also cancel my train ticket?",
+    "category": "cancellation",
+    "escalate": false
+  },
+  {
+    "id": 5,
+    "text": "Is the station I am leaving from staffed? I need a ramp to board.",
+    "category": "accessibility_request",
+    "escalate": false
+  },
+  {
+    "id": 6,
+    "text": "Staff never showed up. I waited 20 minutes, gave up and went home. I want compensation.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 7,
+    "text": "A staff member grabbed my arm roughly while helping me and now I have a bruise.",
+    "category": "safety",
+    "escalate": true
+  },
+  {
+    "id": 8,
+    "text": "Can the assistance staff carry my heavy luggage onto the train?",
+    "category": "other",
+    "escalate": true
+  },
+  {
+    "id": 9,
+    "text": "If nobody replies to me about this, I will report it to the ombudsman.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 10,
+    "text": "Where can I find out about lost property? I left my bag on the train.",
+    "category": "other",
+    "escalate": false
+  }
+]

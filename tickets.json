@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "text": "Hi, I booked assistance for tomorrow at 9am but I need to move it to 11am. How do I do that?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 2,
+    "text": "Please cancel my assistance booking for Friday, my plans changed. Will I be charged?",
+    "category": "cancellation",
+    "escalate": false
+  },
+  {
+    "id": 3,
+    "text": "I use a wheelchair and I am travelling from a small station next week. Will someone bring a ramp?",
+    "category": "accessibility_request",
+    "escalate": false
+  },
+  {
+    "id": 4,
+    "text": "Nobody came to help me yesterday and I missed my train. I want compensation for my ticket.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 5,
+    "text": "A member of staff pushed me while helping me board and I hurt my arm. I am considering legal action.",
+    "category": "safety",
+    "escalate": true
+  },
+  {
+    "id": 6,
+    "text": "I left my umbrella on the train. Can you send it to my address?",
+    "category": "other",
+    "escalate": false
+  },
+  {
+    "id": 7,
+    "text": "Hello, how far ahead do I need to book assistance for a journey this Saturday?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 8,
+    "text": "My train was moved earlier. I booked assistance for 3pm and I need 1pm instead, but it is already 12:15. Can I change it?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 9,
+    "text": "Please cancel my assistance booking for tomorrow morning.",
+    "category": "cancellation",
+    "escalate": false
+  },
+  {
+    "id": 10,
+    "text": "If I cancel my assistance booking, do I get my train ticket refunded?",
+    "category": "cancellation",
+    "escalate": false
+  },
+  {
+    "id": 11,
+    "text": "I travel next week. Will there be a ramp at my station?",
+    "category": "accessibility_request",
+    "escalate": false
+  },
+  {
+    "id": 12,
+    "text": "I use a wheelchair and I leave from a very small unstaffed station. How do I get help boarding?",
+    "category": "accessibility_request",
+    "escalate": false
+  },
+  {
+    "id": 13,
+    "text": "I am blind and I need someone to guide me from the station entrance to the platform at the central station. Do you offer that?",
+    "category": "accessibility_request",
+    "escalate": true
+  },
+  {
+    "id": 14,
+    "text": "The assistance staff arrived 25 minutes late and I nearly missed my train.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 15,
+    "text": "Nobody has turned up and it has been 15 minutes since my booked time. What should I do?",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 16,
+    "text": "I was refused help because I use a mobility scooter and was told it was too big. This is discrimination.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 17,
+    "text": "A staff member dropped my wheelchair while loading me and my leg really hurts.",
+    "category": "safety",
+    "escalate": true
+  },
+  {
+    "id": 18,
+    "text": "I will be contacting my solicitor about how I was treated at Northgate station yesterday.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 19,
+    "text": "I slipped on the platform because the ramp was wet and nobody was there to help me.",
+    "category": "safety",
+    "escalate": true
+  },
+  {
+    "id": 20,
+    "text": "Where do I report a lost phone? I think I left it on the 9:15 train.",
+    "category": "other",
+    "escalate": false
+  },
+  {
+    "id": 21,
+    "text": "I want my money back for the assistance I never received.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 22,
+    "text": "Do you offer assistance at airports as well as train stations?",
+    "category": "other",
+    "escalate": true
+  },
+  {
+    "id": 23,
+    "text": "Hello, I need help.",
+    "category": "other",
+    "escalate": false
+  },
+  {
+    "id": 24,
+    "text": "Can my carer book assistance for me by phone?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 25,
+    "text": "I need to cancel my booking and I also want compensation for last week when nobody came.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 26,
+    "text": "THIS APP IS USELESS. I just want to change the time of my booking. Where is the button?!",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 27,
+    "text": "A member of staff said they would call me back about my booking and nobody ever did.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 28,
+    "text": "If I book assistance one hour before my train, do you guarantee someone will be there?",
+    "category": "booking",
+    "escalate": false
+  },
+  {
+    "id": 29,
+    "text": "I think the staff member was rude to my elderly father. We would like someone to look into it.",
+    "category": "complaint",
+    "escalate": true
+  },
+  {
+    "id": 30,
+    "text": "Is there a charge if I cancel at the last minute?",
+    "category": "cancellation",
+    "escalate": false
+  }
+]
